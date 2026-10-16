@@ -5,6 +5,8 @@
 [![Skill](https://img.shields.io/badge/Skill-WorkBuddy-blue)](#安装)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
+![竞品与增长渠道研究 · 六阶段流程](docs/workflow.svg)
+
 ---
 
 ## 为什么它跟别的 skill 不一样

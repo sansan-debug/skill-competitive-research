@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" width="1200" height="500" role="img" aria-label="竞品与增长渠道研究：六阶段流程">
+<title>竞品与增长渠道研究 · 六阶段流程</title>
+<desc>阶段 0 定义口径 → 阶段 1 渠道地图 → 阶段 2 登录态取数 → 阶段 3 来源归因 → 阶段 4 讨论度 → 阶段 5 交叉验证 → 阶段 6 需求时序，最终产出每个数字都标口径与来源的报告。</desc>
+
+<style>
+  .bg{fill:#FFFFFF;stroke:#E8E8E3}
+  .ttl{fill:#1F1F1D}
+  .sub{fill:#6B6B66}
+  .card{fill:#E1F5EE;stroke:#1D9E75}
+  .out{fill:#FAEEDA;stroke:#BA7517}
+  .ct{fill:#04342C}
+  .cs{fill:#0F6E56}
+  .ot{fill:#412402}
+  .os{fill:#854F0B}
+  .num{fill:#1D9E75}
+  .numt{fill:#FFFFFF}
+  .arr{stroke:#1D9E75}
+  .div{stroke:#E8E8E3}
+  @media (prefers-color-scheme:dark){
+    .bg{fill:#1C1C1A;stroke:#3A3A36}
+    .ttl{fill:#F2F2EE}
+    .sub{fill:#A8A8A2}
+    .card{fill:#0C3B2F;stroke:#1D9E75}
+    .out{fill:#3A2A0C;stroke:#BA7517}
+    .ct{fill:#C8EFE0}
+    .cs{fill:#8FD8BE}
+    .ot{fill:#F5DFB0}
+    .os{fill:#D8AE6A}
+    .num{fill:#1D9E75}
+    .numt{fill:#FFFFFF}
+    .arr{stroke:#3FBF95}
+    .div{stroke:#3A3A36}
+  }
+</style>
+
+<defs>
+  <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </marker>
+</defs>
+
+<g style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif">
+  <rect class="bg" x="0.5" y="0.5" width="1199" height="499" rx="18" stroke-width="1"/>
+
+  <text class="ttl" x="56" y="66" font-size="28" font-weight="500">竞品与增长渠道研究</text>
+  <text class="sub" x="56" y="98" font-size="15" font-weight="400">用一手证据回答三个问题：对手的用户从哪来 · 那些内容是谁发的 · 它的增长靠什么驱动</text>
+  <path class="div" d="M56 122 L1144 122" fill="none" stroke-width="1"/>
+
+  <path class="arr" d="M310 194 L338 194" fill="none" stroke-width="1.5" marker-end="url(#ah)"/>
+  <path class="arr" d="M598 194 L626 194" fill="none" stroke-width="1.5" marker-end="url(#ah)"/>
+  <path class="arr" d="M886 194 L914 194" fill="none" stroke-width="1.5" marker-end="url(#ah)"/>
+  <path class="arr" d="M1046 246 L1046 276 L182 276 L182 300" fill="none" stroke-width="1.5" marker-end="url(#ah)"/>
+  <path class="arr" d="M310 358 L338 358" fill="none" stroke-width="1.5" marker-end="url(#ah)"/>
+  <path class="arr" d="M598 358 L626 358" fill="none" stroke-width="1.5" marker-end="url(#ah)"/>
+  <path class="arr" d="M886 358 L914 358" fill="none" stroke-width="1.5" marker-end="url(#ah)"/>
+
+  <g>
+    <rect class="card" x="56" y="142" width="252" height="104" rx="12" stroke-width="1"/>
+    <circle class="num" cx="84" cy="172" r="13"/>
+    <text class="numt" x="84" y="172" font-size="14" font-weight="500" text-anchor="middle" dominant-baseline="central">0</text>
+    <text class="ct" x="108" y="172" font-size="17" font-weight="500" dominant-baseline="central">定义研究对象与口径</text>
+    <text class="cs" x="76" y="206" font-size="13" font-weight="400">域名 · 品牌词 · 品类词</text>
+    <text class="cs" x="76" y="226" font-size="13" font-weight="400">竞品词 · 官方账号 · 时间窗</text>
+  </g>
+
+  <g>
+    <rect class="card" x="344" y="142" width="252" height="104" rx="12" stroke-width="1"/>
+    <circle class="num" cx="372" cy="172" r="13"/>
+    <text class="numt" x="372" y="172" font-size="14" font-weight="500" text-anchor="middle" dominant-baseline="central">1</text>
+    <text class="ct" x="396" y="172" font-size="17" font-weight="500" dominant-baseline="central">公开检索建渠道地图</text>
+    <text class="cs" x="364" y="206" font-size="13" font-weight="400">求覆盖，不求精度</text>
+    <text class="cs" x="364" y="226" font-size="13" font-weight="400">产出：分类渠道清单</text>
+  </g>
+
+  <g>
+    <rect class="card" x="632" y="142" width="252" height="104" rx="12" stroke-width="1"/>
+    <circle class="num" cx="660" cy="172" r="13"/>
+    <text class="numt" x="660" y="172" font-size="14" font-weight="500" text-anchor="middle" dominant-baseline="central">2</text>
+    <text class="ct" x="684" y="172" font-size="17" font-weight="500" dominant-baseline="central">登录态取数</text>
+    <text class="cs" x="652" y="206" font-size="13" font-weight="400">评论 · 票数 · 成员数</text>
+    <text class="cs" x="652" y="226" font-size="13" font-weight="400">播放量等关键字段</text>
+  </g>
+
+  <g>
+    <rect class="card" x="920" y="142" width="252" height="104" rx="12" stroke-width="1"/>
+    <circle class="num" cx="948" cy="172" r="13"/>
+    <text class="numt" x="948" y="172" font-size="14" font-weight="500" text-anchor="middle" dominant-baseline="central">3</text>
+    <text class="ct" x="972" y="172" font-size="17" font-weight="500" dominant-baseline="central">来源归因</text>
+    <text class="cs" x="940" y="206" font-size="13" font-weight="400">第一方 / 联盟 KOL</text>
+    <text class="cs" x="940" y="226" font-size="13" font-weight="400">铺量号 / 真实 UGC</text>
+  </g>
+
+  <g>
+    <rect class="card" x="56" y="306" width="252" height="104" rx="12" stroke-width="1"/>
+    <circle class="num" cx="84" cy="336" r="13"/>
+    <text class="numt" x="84" y="336" font-size="14" font-weight="500" text-anchor="middle" dominant-baseline="central">4</text>
+    <text class="ct" x="108" y="336" font-size="17" font-weight="500" dominant-baseline="central">讨论度</text>
+    <text class="cs" x="76" y="370" font-size="13" font-weight="400">浏览 · 点赞 · 评论</text>
+    <text class="cs" x="76" y="390" font-size="13" font-weight="400">转发 · 收藏</text>
+  </g>
+
+  <g>
+    <rect class="card" x="344" y="306" width="252" height="104" rx="12" stroke-width="1"/>
+    <circle class="num" cx="372" cy="336" r="13"/>
+    <text class="numt" x="372" y="336" font-size="14" font-weight="500" text-anchor="middle" dominant-baseline="central">5</text>
+    <text class="ct" x="396" y="336" font-size="17" font-weight="500" dominant-baseline="central">交叉验证与修正</text>
+    <text class="cs" x="364" y="370" font-size="13" font-weight="400">多源 · 时间 · 反向证伪</text>
+    <text class="cs" x="364" y="390" font-size="13" font-weight="400">修正错误归因</text>
+  </g>
+
+  <g>
+    <rect class="card" x="632" y="306" width="252" height="104" rx="12" stroke-width="1"/>
+    <circle class="num" cx="660" cy="336" r="13"/>
+    <text class="numt" x="660" y="336" font-size="14" font-weight="500" text-anchor="middle" dominant-baseline="central">6</text>
+    <text class="ct" x="684" y="336" font-size="17" font-weight="500" dominant-baseline="central">需求时序</text>
+    <text class="cs" x="652" y="370" font-size="13" font-weight="400">这个渠道是「造需求」</text>
+    <text class="cs" x="652" y="390" font-size="13" font-weight="400">还是只是「接需求」</text>
+  </g>
+
+  <g>
+    <rect class="out" x="920" y="306" width="252" height="104" rx="12" stroke-width="1"/>
+    <text class="ot" x="940" y="340" font-size="17" font-weight="500" dominant-baseline="central">产出物</text>
+    <text class="os" x="940" y="374" font-size="13" font-weight="400">每个数字都标口径与来源</text>
+    <text class="os" x="940" y="394" font-size="13" font-weight="400">并写明「拿不到什么」</text>
+  </g>
+
+  <text class="sub" x="56" y="452" font-size="14" font-weight="400">三条纪律：① 每个数字标注口径与来源 ② 区分「没发现证据」与「已证明为真」 ③ 主动找能证伪自己结论的证据</text>
+</g>
+</svg>
