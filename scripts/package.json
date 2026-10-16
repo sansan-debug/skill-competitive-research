@@ -1,0 +1,15 @@
+{
+  "name": "competitive-research-harness",
+  "version": "1.0.0",
+  "private": true,
+  "description": "带登录态浏览器取数装置：持久化 profile + 进程内抓取守护 + 通用抓取器库",
+  "main": "harvest.js",
+  "scripts": {
+    "smoke": "node smoke.js",
+    "console": "node login-console.js",
+    "list": "node -e \"console.log(Object.keys(require('./harvest').SCRAPERS).join('\\n'))\""
+  },
+  "dependencies": {
+    "playwright-core": "^1.64.1"
+  }
+}
